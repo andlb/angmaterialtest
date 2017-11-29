@@ -1,6 +1,8 @@
-# Materialtest
+# Angular 5, Material5 and Flex layout.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.2.
+An simple code showing how to use materials 5, angular 5 and flex layout.
+
 
 ## Development server
 
